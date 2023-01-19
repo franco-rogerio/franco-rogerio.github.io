@@ -1,0 +1,20 @@
+body{
+        background-color: rgb(143, 137, 137);
+}
+h1 {
+        font-family: 'Times New Roman', Times, serif;
+}
+#EU {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.multilingue {
+    font-size: 25px;
+}
+.comunicativo {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.empatico {
+    font-style: italic;
+}
+
